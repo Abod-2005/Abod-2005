@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Abdulrahman Saleem Al-Nawati 👋
 
-<!--
-**Abod-2005/Abod-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Development Student
+🚀 Improving my skills in PHP & Advanced SQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Who am I?
+
+I'm a Software Development student passionate about building my skills and growing step by step in the programming world.
+
+---
+
+## 🚀 What am I working on?
+
+* Improving my PHP skills
+* Learning Advanced SQL & Databases
+* Building small projects to practice and improve
+
+---
+
+## 🛠️ Tools & Technologies
+
+* PHP
+* JavaScript
+* Java
+* SQL (Advanced)
+* HTML & CSS
+
+---
+
+## 📫 Contact Me
+
+* WhatsApp: https://wa.me/972592067127
