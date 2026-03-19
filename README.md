@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Who am I?
 
-I'm a Software Development student passionate about building my skills and growing step by step in the programming world.
+I'm a Software Development student passionate about improving my skills and building real-world projects.
 
 ---
 
@@ -15,7 +15,7 @@ I'm a Software Development student passionate about building my skills and growi
 
 * Improving my PHP skills
 * Learning Advanced SQL & Databases
-* Building small projects to practice and improve
+* Building real-world projects to strengthen my skills
 
 ---
 
@@ -31,4 +31,4 @@ I'm a Software Development student passionate about building my skills and growi
 
 ## 📫 Contact Me
 
-* WhatsApp: https://wa.me/972592067127
+📱 WhatsApp: https://wa.me/972592067127
